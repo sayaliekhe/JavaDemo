@@ -10,6 +10,5 @@ public class MapTest {
         fruits.put("Banana",10);
         fruits.put("Apple",10);
         System.out.println(fruits);
-
     }
 }
